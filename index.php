@@ -2,7 +2,7 @@
 <script>
 $(document).ready(function(){
 $('#input').focus();
-$('#input').prompt();	
+
 Keyboard.show();
 })
 
