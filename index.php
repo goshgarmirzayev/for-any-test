@@ -4,4 +4,4 @@ $('#input').focus();
 $('#input').trigger('click');
 
 </script>
-<input type="text" autofocus id="input" />
+<input type="text" id="input" />
