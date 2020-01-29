@@ -2,7 +2,7 @@
 <script>
 $(document).ready(function(){
 $('#input').focus();
-$('#input').trigger('click');	
+$('#input').prompt();	
 })
 
 
